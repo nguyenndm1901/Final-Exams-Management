@@ -3,7 +3,7 @@
 ## Final Exams Management Project
 
 ### Description
--Final Exams Management is my first solo-project written by Java. This project is very easy to use, it takes only 5 minutes to get familiar.
+- Final Exams Management is my first solo-project written by Java. This project is very easy to use, it takes only 5 minutes to get familiar.
 
 ### Functions
 - Add, edit or delete a scheduled exam (included subject's code, subject's name, room, date, shift, number of candidates, number of examiner).
