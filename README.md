@@ -1,5 +1,5 @@
 # University of Information Technology
-# Software Engineering Falcuty
+# Software Engineering Faculty
 ## Final Exams Management Project
 
 ### Description
