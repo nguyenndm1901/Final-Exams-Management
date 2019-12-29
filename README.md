@@ -54,4 +54,4 @@
 
 # Vietnam National University (VNU)
 # University of Information Technology (UIT)
-# Software Engineering Falcuty (SE)
+# Software Engineering Faculty (SE)
