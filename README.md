@@ -1,5 +1,5 @@
 # University of Information Technology
-# Software Engineering Faculty
+# Faculty of Software Engineering
 ## Final Exams Management Project
 
 ### Description
@@ -54,4 +54,4 @@
 
 # Vietnam National University (VNU)
 # University of Information Technology (UIT)
-# Software Engineering Faculty (SE)
+# Faculty of Software Engineering (SE)
